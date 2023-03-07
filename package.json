@@ -21,7 +21,7 @@
     "@react-email/row": "0.0.3",
     "@react-email/section": "0.0.8",
     "@react-email/text": "0.0.4",
-    "@types/node": "^18.14.0",
+    "@types/node": "^18.14.6",
     "react-email": "1.7.13"
   }
 }
